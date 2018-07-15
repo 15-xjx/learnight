@@ -1,3 +1,7 @@
 git is ...
 git has ...
-git creating a new branch is quick & simole	
+<<<<<<< HEAD
+git creating a new branch is quick and simole	
+=======
+git creating a new branch is quick and simole
+>>>>>>> feature1
